@@ -1,4 +1,2 @@
 # PlataformaRRHH
-# PlataformaRRHH
-# PlataformaRRHH
-# PlataformaRRHH
+
